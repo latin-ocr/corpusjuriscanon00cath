@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./corpusjuriscanon00cath_0002.png"; bbox 0 0 1948 2767; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 624 1317 1139 1350">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 624 1317 1139 1350">
+     <span class='ocr_line' id='line_1_1' title="bbox 624 1317 1139 1350; baseline -0.008 0"><span class='ocrx_word' id='word_1_1' title='bbox 624 1323 660 1350; x_wconf 89' lang='grc' dir='ltr'>ΙΝ</span> <span class='ocrx_word' id='word_1_2' title='bbox 685 1317 1139 1350; x_wconf 52' lang='lat' dir='ltr'>TMECUSTODY&#39;OFTME</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 804 1374 1332 1407">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 804 1374 1332 1407">
+     <span class='ocr_line' id='line_1_2' title="bbox 804 1374 1332 1407; baseline -0.013 0"><span class='ocrx_word' id='word_1_3' title='bbox 804 1379 962 1407; x_wconf 73' lang='grc' dir='ltr'>ΒΟΞΤΟΝ</span> <span class='ocrx_word' id='word_1_4' title='bbox 1001 1377 1137 1404; x_wconf 70' lang='grc' dir='ltr'>ΡΗΒΗΕ</span> <span class='ocrx_word' id='word_1_5' title='bbox 1163 1374 1332 1403; x_wconf 61' lang='grc' dir='ltr'>ΗΒΗΛΗΥ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 268 870 1556 1904">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 268 870 1556 1904">
+     <span class='ocr_line' id='line_1_3' title="bbox 268 870 1556 1904; baseline 0 0"><span class='ocrx_word' id='word_1_6' title='bbox 268 870 1556 1904; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
